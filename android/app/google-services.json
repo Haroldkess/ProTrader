@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600102319018",
+    "project_id": "protrader-7c92b",
+    "storage_bucket": "protrader-7c92b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600102319018:android:03907f67e3aab4205831d3",
+        "android_client_info": {
+          "package_name": "com.protrader.crypto_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600102319018-5a0pc3dgifimtapl1lsmaq3oli0vmtul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.protrader.crypto_payment",
+            "certificate_hash": "84470715fd67cd5de409f9af5013069dfefe96a9"
+          }
+        },
+        {
+          "client_id": "600102319018-89b6ksuue0rgnqjtle8kadkm6b3vdm7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDByPGYpqgNGoHVdGdBczyQDq0GbCz9PXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600102319018-89b6ksuue0rgnqjtle8kadkm6b3vdm7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
