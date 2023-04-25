@@ -31,4 +31,6 @@ users can see highest earners and top traders
 
 referal links and bonuses 
 
+light and dark mode
+![Alt text](homedark.png) ![Alt text](homelight.png)
 
